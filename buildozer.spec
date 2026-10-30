@@ -11,7 +11,7 @@ fullscreen = 0
 source.include_exts = py,json,png,jpg,kv
 android.archs = arm64-v8a, armeabi-v7a
 android.minapi = 23
-
+android.accept_sdk_license = True
 [buildozer]
 log_level = 2
 warn_on_root = 1
