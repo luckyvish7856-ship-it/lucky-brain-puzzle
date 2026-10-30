@@ -1,4 +1,5 @@
 [app]
+android.accept_sdk_license = True
 title = LUCKY BRAIN PUZZLE PRO
 package.name = luckybrainpuzzle
 package.domain = org.lucky
